@@ -1659,3 +1659,10 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+		.image.me {
+
+			max-width: 200px;
+			max-height: 200px;
+			
+		}
